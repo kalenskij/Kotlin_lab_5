@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">reliabilitycalculator</string>
+    <string name="task1_name">Задание 1</string>
+    <string name="task2_name">Задание 2</string>
+</resources>
